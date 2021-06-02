@@ -1,0 +1,132 @@
+.head1 {
+  color: rgb(29, 30, 24);
+  font-size: 60px;
+  border-left: 10px solid rgb(29, 30, 24);
+  border-right: 10px solid rgb(29, 30, 24);
+  background-color: rgb(185, 245, 216);
+  text-align: center;
+  padding: 20px;
+}
+
+.body1 {
+  background-color: rgb(80, 175, 133);
+  color: #1d1e18;
+}
+
+.para1 {
+  color: rgb(29, 30, 24);
+  font-size: 14px;
+}
+
+#img2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  border-radius: 50%;
+  padding: 10px;
+}
+
+.quote1 {
+  text-align: center;
+  font-size: 15px;
+  background-color: rgb(185, 245, 216);
+  padding: 4px;
+}
+
+.quote2 {
+  text-align: center;
+  font-size: 15px;
+  background-color: rgb(185, 245, 216);
+  padding: 4px;
+}
+
+.div1 {
+  border: 4px inset rgb(29, 30, 24);
+  background-color: rgb(185, 245, 216);
+  text-align: center;
+}
+
+#img3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  padding: 10px;
+}
+
+.head2 {
+  text-align: center;
+}
+
+.title1 {
+  color: rgb(29, 30, 24);
+  font-size: 60px;
+  border-left: 10px solid rgb(29, 30, 24);
+  border-right: 10px solid rgb(29, 30, 24);
+  background-color: rgb(185, 245, 216);
+  text-align: center;
+  padding: 20px;
+}
+
+.title2 {
+  color: rgb(29, 30, 24);
+  font-size: 60px;
+  border-left: 10px solid rgb(29, 30, 24);
+  border-right: 10px solid rgb(29, 30, 24);
+  background-color: rgb(185, 245, 216);
+  text-align: center;
+  padding: 20px;
+}
+
+.mini1 {
+  font-size: 30px;
+}
+
+.dv1 {
+  background-color: rgb(185, 245, 216);
+  padding: 10px;
+  margin: 30px;
+  border: 4px inset rgb(29, 30, 24);
+}
+
+.dv2 {
+  background-color: rgb(185, 245, 216);
+  padding: 10px;
+  margin: 30px;
+  border: 4px inset rgb(29, 30, 24);
+}
+
+.dv3 {
+  background-color: rgb(185, 245, 216);
+  padding: 10px;
+  margin: 30px;
+  border: 4px inset rgb(29, 30, 24);
+}
+
+.dv4 {
+  background-color: rgb(185, 245, 216);
+  padding: 10px;
+  margin: 30px;
+  border: 4px inset rgb(29, 30, 24);
+}
+
+.list1 {
+  text-align: center;
+  list-style-type: none;
+  padding: 10px;
+}
+
+.links {
+  overflow: hidden;
+  background-color: rgb(29, 30, 24);
+}
+
+.links a {
+  float: left;
+  display: block;
+  color: rgb(185, 245, 216);
+  text-align: center;
+  padding:16px;
+  text-decoration: none;
+}
