@@ -45,6 +45,9 @@
   border: 4px inset rgb(29, 30, 24);
   background-color: rgb(185, 245, 216);
   text-align: center;
+  padding: 10px;
+  width: 50%;
+  margin: auto;
 }
 
 #img3 {
@@ -60,10 +63,10 @@
 }
 
 .title1 {
-  color: #1D1E18;
+  color: #1d1e18;
   font-size: 60px;
-  border-left: 10px solid #1D1E18;
-  border-right: 10px solid #1D1E18;
+  border-left: 10px solid #1d1e18;
+  border-right: 10px solid #1d1e18;
   background-color: rgb(185, 245, 216);
   text-align: center;
   padding: 20px;
@@ -74,7 +77,8 @@
   font-size: 60px;
   border-left: 10px solid rgb(29, 30, 24);
   border-right: 10px solid rgb(29, 30, 24);
-  background-color: #B9F5D8;
+  background-color: #b9f5d8;
+  text-align: center;
   padding: 20px;
 }
 
@@ -128,4 +132,95 @@
   text-align: center;
   padding: 16px;
   text-decoration: none;
+}
+
+.dv5 {
+  background-color: #b9f5d8;
+  padding: 10px;
+  margin: 30px;
+  border: 4px inset rgb(29, 30, 24);
+}
+
+.dv6 {
+  background-color: #b9f5d8;
+  padding: 10px;
+  margin: 30px;
+  border: 4px inset rgb(29, 30, 24);
+}
+
+.dv7 {
+  background-color: #b9f5d8;
+  padding: 10px;
+  margin: 30px;
+  border: 4px inset rgb(29, 30, 24);
+}
+
+.dv8 {
+  background-color: #b9f5d8;
+  padding: 10px;
+  margin: 30px;
+  border: 4px inset #1d1e18;
+}
+
+.dv9 {
+  background-color: #b9f5d8;
+  padding: 10px;
+  margin: 30px;
+  border: 4px inset #1d1e18;
+}
+
+.box1 {
+  background-color: rgb(185, 245, 216);
+  padding: 10px;
+  margin: 30px;
+  border: 4px inset #1d1e18;
+}
+
+.box2 {
+  background-color: rgb(185, 245, 216);
+  padding: 10px;
+  margin: 30px;
+  border: 4px inset #1d1e18;
+}
+
+.box3 {
+  border: 4px inset #1d1e18;
+  padding: 10px;
+  margin: 30px;
+  background-color: rgb(185, 245, 216)
+}
+
+.box4 {
+  border: 4px inset #1d1e18;
+  padding: 10px;
+  margin: 30px;
+  background-color: rgb(185, 245, 216)
+}
+
+.box5 {
+  padding: 10px;
+  margin: 30px;
+  border: 4px inset #1d1e18;
+  background-color: rgb(185, 245, 216)
+}
+
+.box6 {
+  padding: 10px;
+  margin: 30px;
+  border: 4px inset #1d1e18;
+  background-color: rgb(185, 245, 216)
+}
+
+.box7 {
+  padding: 10px;
+  margin: 30px;
+  border: 4px inset #1d1e18;
+  background-color: #b9f5d8
+}
+
+.award {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
 }
